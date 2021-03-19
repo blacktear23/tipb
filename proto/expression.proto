@@ -70,6 +70,7 @@ enum ExprType {
 	JsonArrayAgg = 3018;
 	JsonObjectAgg = 3019;
 	ApproxCountDistinct = 3020;
+	HsBuildDb = 3021;
 
 	/* Scalar Function */
 	ScalarFunc = 10000;
